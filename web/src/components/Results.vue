@@ -31,7 +31,7 @@ const results = {
     results: {
       a: Number, 
       b: Number,
-    }
+    },
   },
 
   computed: {
